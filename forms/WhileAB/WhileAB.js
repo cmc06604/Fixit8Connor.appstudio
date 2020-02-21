@@ -1,4 +1,4 @@
-/*
+
 let firstName = prompt("Please give your first name")
 let lastName = prompt("Please give your second name")
 let fullName = (firstName + " " + lastName)
@@ -9,5 +9,4 @@ while (i < fullName.length) {
   console.log("Letter " + (i+1) +  " is " + fullName.charAt(i))
   i++
 }
-
-*/  
+  
